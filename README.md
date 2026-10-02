@@ -4,9 +4,9 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 
 ### What I've built so far
 - **[Kitchen Assistant](https://github.com/perihangozukara/mutfak-asistani)** — a no-code AI assistant that suggests healthy two-person recipes from what's at home. Built with clear instructions and structured context files.
-- **Günüm (My Day)** — a daily planner for personal and work routines with reminders. Runs in the browser and as an Android app. *(repo coming soon)*
-- **Seç-Çevir** — a small Windows tool: select any English text on screen and see the Turkish translation right below it. *(repo coming soon)*
-- **A private mobile marketplace prototype** — a working app prototype built with AI assistance, running on Android. *(private project)*
+- **A daily planner app** — personal and work routines with reminders. Runs in the browser and as an Android app. *(private project)*
+- **A screen translation tool** — select any English text on screen and see the Turkish translation right below it. *(private project)*
+- **A mobile marketplace prototype** — a working app prototype built with AI assistance, running on Android. *(private project)*
 
 ### How I work
 1. Start from the real problem, in plain words.
