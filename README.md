@@ -30,4 +30,4 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 ### Tools
 Claude · Claude Code · Gemini · Git & GitHub · HTML / CSS / JavaScript
 
-📫 [LinkedIn](https://www.linkedin.com/in/perihan-g%C3%B6z%C3%BCkara-2ab719252/) · [Upwork](https://www.upwork.com/freelancers/~01d637b1af209cd893)
+📫 [LinkedIn](https://www.linkedin.com/in/perihangozukara/) · [Upwork](https://www.upwork.com/freelancers/~01d637b1af209cd893)
