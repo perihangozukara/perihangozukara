@@ -18,6 +18,15 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 - Building web pages and small apps with AI assistance
 - HTML, CSS and JavaScript fundamentals · Git & GitHub
 
+### Weekly learning log
+**W39-2026**
+- Development basics: files and paths, terminal, Markdown, JSON.
+- Git & GitHub: basic add → commit → push loop; published my first repository.
+- Built my first no-code AI assistant from instructions and structured context files.
+- Web fundamentals: HTML basics and a first look at CSS.
+
+[Full log →](LEARNING-LOG.md)
+
 ### Tools
 Claude · Claude Code · Gemini · Git & GitHub · HTML / CSS / JavaScript
 
