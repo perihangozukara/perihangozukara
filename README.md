@@ -1,13 +1,24 @@
-# Hi there, I'm Perihan Gözükara! 👋
-I am an **Applied Mathematics Graduate** and **AI Automation Engineer** based in Antalya, Turkey. I bridge the gap between rigorous mathematical logic and production-ready Artificial Intelligence solutions.
-### 📐 From Math to AI
-As a mathematician, I don't treat AI models as black boxes. My background in **Linear Algebra, Calculus, and Probability** allows me to deeply understand vector embeddings, optimization algorithms (Gradient Descent), and data alignment techniques.
-### 🤖 What I Build
-**Context-Aware AI Agents (RAG):** Connecting corporate data (PDFs, Databases) to LLMs for zero-hallucination enterprise assistants.
-**AI Automations:** Designing smart workflows with OpenAI/Gemini APIs, Voiceflow, and Make.com.
-**Data Collection & Annotation:** Managing precise datasets for Computer Vision and Natural Language Processing models.
-### 🛠️ Tech Stack
-**Languages:** Python (NumPy, Pandas, Scikit-Learn)
-**AI & Automation:** PyTorch, OpenAI API, Voiceflow, Make.com
-**Tools:** Jupyter Notebook, Anaconda, Git & GitHub
-**📫 How to reach me:** Connect on LinkedIn | Work with me on Upwork https://www.upwork.com/freelancers/~01d637b1af209cd893
+# Hi, I'm Perihan Gözükara 👋
+
+Mathematics graduate (Erciyes University; graduation thesis in cryptology), based in Antalya, Türkiye. I build small, practical tools for everyday problems using AI — and I document every step so the next build is faster.
+
+### What I've built so far
+- **[Kitchen Assistant](https://github.com/perihangozukara/mutfak-asistani)** — a no-code AI assistant that suggests healthy two-person recipes from what's at home. Built with clear instructions and structured context files.
+- **Günüm (My Day)** — a daily planner for personal and work routines with reminders. Runs in the browser and as an Android app. *(repo coming soon)*
+- **Seç-Çevir** — a small Windows tool: select any English text on screen and see the Turkish translation right below it. *(repo coming soon)*
+- **A private mobile marketplace prototype** — a working app prototype built with AI assistance, running on Android. *(private project)*
+
+### How I work
+1. Start from the real problem, in plain words.
+2. Give the AI the right context and data.
+3. Test on real use, fix what breaks, write down the steps.
+
+### Currently learning
+- AI email-sorting agent for Gmail
+- Building web pages and small apps with AI assistance
+- HTML, CSS and JavaScript fundamentals · Git & GitHub
+
+### Tools
+Claude · Claude Code · Gemini · Git & GitHub · HTML / CSS / JavaScript
+
+📫 [LinkedIn](https://www.linkedin.com/in/perihan-g%C3%B6z%C3%BCkara-2ab719252/) · [Upwork](https://www.upwork.com/freelancers/~01d637b1af209cd893)
