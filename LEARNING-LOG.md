@@ -2,6 +2,16 @@
 
 What I learned each week, newest first. Weeks are numbered by ISO week (W39-2026 = week 39 of 2026).
 
+## W40-2026
+- Web fundamentals: CSS layout with Flexbox (cards side by side, wrapping on small screens) and a semantic page structure (header, nav, main, section, article, footer).
+- JavaScript basics: finding elements, listening to events and updating the page; if/else; saving data in the browser with localStorage; reading the browser console. Built a small page with search and a shopping list that remembers its items.
+- Spreadsheet automation: built a Google Sheets tracking system with formulas, dropdowns, a summary panel and auto-generated personal messages; built a client–listing matching sheet and published it as a sample case study.
+- Claude Code: persistent project instructions (CLAUDE.md), a custom review agent, scheduled tasks for recurring work, and my first terminal commands.
+- Prompt engineering: studied an open-source prompt cookbook and turned its methods into a reusable prompt package for daily work (email triage, day planning, a prompt that writes prompts), tested on fictional sample data.
+- AI agents: wrote a step-by-step build plan for an AI email-sorting agent (not built yet).
+- Content: bilingual (Turkish/English) posts explaining AI basics: what an LLM is, tokens, hallucination and the parts of a good prompt; consistent image generation from a reference image.
+- Freelance profiles: rewrote my GitHub, LinkedIn and Upwork profiles to show only real, demonstrable work.
+
 ## W39-2026
 - Development basics: files, folders and paths; first steps in the terminal.
 - Formats: Markdown and JSON.

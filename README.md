@@ -4,6 +4,7 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 
 ### What I've built so far
 - **[Kitchen Assistant](https://github.com/perihangozukara/mutfak-asistani)** — a no-code AI assistant that suggests healthy two-person recipes from what's at home. Built with clear instructions and structured context files.
+- **Real estate client & listing matcher** — a Google Sheets system that matches client requests to listings. *(sample project)*
 - **A daily planner app** — personal and work routines with reminders. Runs in the browser and as an Android app. *(private project)*
 - **A screen translation tool** — select any English text on screen and see the Turkish translation right below it. *(private project)*
 - **A mobile marketplace prototype** — a working app prototype built with AI assistance, running on Android. *(private project)*
@@ -19,11 +20,11 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 - HTML, CSS and JavaScript fundamentals · Git & GitHub
 
 ### Weekly learning log
-**W39-2026**
-- Development basics: files and paths, terminal, Markdown, JSON.
-- Git & GitHub: basic add → commit → push loop; published my first repository.
-- Built my first no-code AI assistant from instructions and structured context files.
-- Web fundamentals: HTML basics and a first look at CSS.
+**W40-2026**
+- Web fundamentals: CSS Flexbox, semantic page structure and first JavaScript (events, localStorage).
+- Spreadsheet automation: tracking and matching systems in Google Sheets; first sample case study published.
+- Claude Code: persistent instructions, a custom agent and scheduled tasks.
+- Prompt engineering: a reusable prompt package for daily work, tested on sample data.
 
 [Full log →](LEARNING-LOG.md)
 
