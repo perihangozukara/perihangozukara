@@ -20,11 +20,11 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 - HTML, CSS and JavaScript fundamentals · Git & GitHub
 
 ### Weekly learning log
-**W40-2026**
-- Web fundamentals: CSS Flexbox, semantic page structure and first JavaScript (events, localStorage).
-- Spreadsheet automation: tracking and matching systems in Google Sheets; first sample case study published.
-- Claude Code: persistent instructions, a custom agent and scheduled tasks.
-- Prompt engineering: a reusable prompt package for daily work, tested on sample data.
+**W41-2026**
+- Web fundamentals: debugging with the browser console and how a browser loads a page (DevTools).
+- Development environment: set up a new laptop from the terminal (Git, Node.js, Python, Android Studio).
+- App development process: studied the path from idea to store release for Android and Flutter apps.
+- Claude Code: reusable skills for recurring tasks.
 
 [Full log →](LEARNING-LOG.md)
 

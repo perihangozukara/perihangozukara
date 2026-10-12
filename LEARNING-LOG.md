@@ -2,6 +2,13 @@
 
 What I learned each week, newest first. Weeks are numbered by ISO week (W39-2026 = week 39 of 2026).
 
+## W41-2026
+- Web fundamentals: debugging in the browser console (TypeError, ReferenceError, SyntaxError and a logic error), finding each bug from its file:line:column address, and writing a clear four-part bug report. How a browser requests, loads and draws a page; DevTools tabs (Network, Elements, Console, Application).
+- Development environment: set up a new laptop from scratch. Installed Git, Node.js, Python and Android Studio from the terminal with winget, checked versions, and moved my projects, notes and backups over.
+- App development process: studied the path from idea to store release for Android (Kotlin + Android Studio) and cross-platform (Flutter) apps. Notes only, nothing published yet.
+- Claude Code: wrote reusable skills (packaged instructions) for recurring tasks, and rebuilt an AI project with its instructions and memory under a new account.
+- Content: bilingual (Turkish/English) posts explaining AI basics: context and the context window, memory vs. context, and what a skill is.
+
 ## W40-2026
 - Web fundamentals: CSS layout with Flexbox (cards side by side, wrapping on small screens) and a semantic page structure (header, nav, main, section, article, footer).
 - JavaScript basics: finding elements, listening to events and updating the page; if/else; saving data in the browser with localStorage; reading the browser console. Built a small page with search and a shopping list that remembers its items.
