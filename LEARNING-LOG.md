@@ -2,6 +2,26 @@
 
 What I learned each week, newest first. Weeks are numbered by ISO week (W39-2026 = week 39 of 2026).
 
+## W43-2026
+- Open-source video automation: forked [Otopilot](https://github.com/perihangozukara/otopilot) (MIT) and extended it: AI video clips as scenes, a local text-to-speech bridge with a pronunciation dictionary, pauses between sentences, clips that play in full with their ambient sound under the narration, subtitle styling, fade transitions, and re-generating only the paragraphs whose text changed. Every change is covered by the test suite (304 tests passing).
+- AI video production: produced a ~9-minute animated children's story episode end to end: script split into 39 scenes, AI-generated video clips with character reference images, local voice-over, automatic editing; fixed voice consistency, pacing and transitions over four review rounds.
+- AI-assisted testing: five role-playing agents (different ages, buyer/seller roles) used a mobile app prototype through Playwright; about 85 findings were merged and the critical ones fixed; 25 of 25 automated tests pass.
+- Desktop tool: fixed [Seç-Çevir](https://github.com/perihangozukara/SecCevir) going deaf after a few hours. The mouse hook moved to its own thread and is re-installed every minute; copy is sent in one step; a fallback address is used when the translation service rate-limits.
+- APIs: connected the YouTube Data and Analytics APIs with OAuth (desktop client) and pulled channel statistics; keys stay in an environment file, never in code. Learned that test-mode tokens expire after 7 days.
+- Multi-assistant agent setup: one role file shared by Claude Code, Codex, Gemini and Copilot, with small pointer files for each; compared the token cost of three setups before choosing the cheapest.
+- Local search: built a SQLite search index over my notes so agents can find the right note without reading everything.
+- Research and planning: competitor analysis for an educational YouTube channel, a master prompt for a Claude Project and a release roadmap. Tested a step-by-step Google Sheets prompt in a clean session and in real Google Sheets; the formulas worked, but I judged the approach unsuccessful and changed course.
+
+## W42-2026
+- Web fundamentals: HTTP and APIs, talking to an API with JSON, frontend vs. backend, databases, and first steps in UX.
+- Built and published [Prompt Compass](https://github.com/perihangozukara/prompt-compass), a small web page that checks a prompt against clear rules (HTML, CSS, JavaScript, GitHub Pages).
+- Repo study: read two open-source repositories (Anthropic's Claude cookbooks, MDN's PWA examples) and tested five recipes on sample data: web search, classification, summarizing, answering questions from a document, and a "devil's advocate" review.
+- Claude Code: organized my setup in layers (one top-level rules file, team rules and agent rules) with permission locks; agent notes split between local files and an archive.
+- AI-assisted testing: used sub-agents, each playing a different type of user, to test apps and fix what they found.
+- Desktop tool: improved [Seç-Çevir](https://github.com/perihangozukara/SecCevir) with caching and a cool-down for rate limits, a 10-second timeout, automatic language detection and smarter popup placement.
+- Free video pipeline: set up Remotion, FFmpeg and Whisper; compared text-to-speech voices by license and chose an MIT-licensed one for commercial use; rendered a 15-second style test. Also built a 3D view of a small web dashboard with Three.js.
+- Content: bilingual (Turkish/English) posts explaining tools and MCP, the agent loop, and hallucination and verification.
+
 ## W41-2026
 - Web fundamentals: debugging in the browser console (TypeError, ReferenceError, SyntaxError and a logic error), finding each bug from its file:line:column address, and writing a clear four-part bug report. How a browser requests, loads and draws a page; DevTools tabs (Network, Elements, Console, Application).
 - Development environment: set up a new laptop from scratch. Installed Git, Node.js, Python and Android Studio from the terminal with winget, checked versions, and moved my projects, notes and backups over.

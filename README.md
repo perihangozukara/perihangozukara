@@ -20,11 +20,11 @@ Mathematics graduate (Erciyes University; graduation thesis in cryptology), base
 - HTML, CSS and JavaScript fundamentals · Git & GitHub
 
 ### Weekly learning log
-**W41-2026**
-- Web fundamentals: debugging with the browser console and how a browser loads a page (DevTools).
-- Development environment: set up a new laptop from the terminal (Git, Node.js, Python, Android Studio).
-- App development process: studied the path from idea to store release for Android and Flutter apps.
-- Claude Code: reusable skills for recurring tasks.
+**W43-2026**
+- Open-source video automation: forked and extended [Otopilot](https://github.com/perihangozukara/otopilot) (clips, local voice-over, subtitles, transitions; 304 tests passing).
+- AI video production: a ~9-minute animated story episode, from script to final edit.
+- AI-assisted testing: role-playing agents tested an app prototype with Playwright; fixes verified by 25 automated tests.
+- APIs: connected the YouTube Data and Analytics APIs with OAuth.
 
 [Full log →](LEARNING-LOG.md)
 
